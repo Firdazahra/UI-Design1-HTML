@@ -386,7 +386,7 @@
   flex-shrink: 0;
   border-color: rgba(230, 230, 230, 1);
   border-style: solid;
-  border-width: 0 1 0 1;
+  border-width: 0 1px 0 1px;
   margin-bottom: 0px;
   flex-direction: column;
 }
@@ -399,7 +399,7 @@
   flex-shrink: 0;
   border-color: rgba(230, 230, 230, 1);
   border-style: solid;
-  border-width: 0 0 1 0;
+  border-width: 0 0 1px 0;
   margin-bottom: 0px;
 }
 .input-master-data12-title-form {
@@ -412,7 +412,7 @@
   flex-shrink: 0;
   border-color: rgba(230, 230, 230, 1);
   border-style: solid;
-  border-width: 0 1 0 0;
+  border-width: 0 1px 0 0;
   margin-right: 0px;
   flex-direction: column;
 }
