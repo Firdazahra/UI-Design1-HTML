@@ -394,10 +394,10 @@
   flex-shrink: 0;
   border-color: transparent;
   margin-bottom: 0px;
+  flex-direction: row;
   justify-content: space-between;
 }
 .detail-container-title-page {
-  width: 205px;
   display: flex;
   position: relative;
   align-items: center;
@@ -757,7 +757,7 @@
 }
 .detail-container-detail-master-data {
   display: flex;
-  padding: 32px;
+  padding: 32px 20px;
   z-index: 1;
   position: relative;
   flex-grow: 1;
@@ -829,10 +829,10 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .detail-container-daftar-counter {
-  gap: 32px;
+  gap: 16px;
   width: 100%;
   display: flex;
-  padding: 16px 32px;
+  padding: 16px 0 16px 16px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -904,7 +904,7 @@
 }
 .detail-container-button07 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
@@ -918,7 +918,7 @@
 }
 .detail-container-button08 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
@@ -932,7 +932,7 @@
 }
 .detail-container-button09 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
@@ -962,9 +962,8 @@
 .detail-container-detail-counter-layanan {
   height: 100%;
   display: flex;
-  z-index: 2;
   position: relative;
-  max-width: 30%;
+  min-width: 20%;
   align-self: stretch;
   overflow-y: scroll;
   align-items: center;
@@ -1036,7 +1035,7 @@
 }
 .detail-container-button11 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
@@ -1044,13 +1043,13 @@
   justify-content: center;
 }
 .detail-container-edit1 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .detail-container-button12 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
@@ -1058,14 +1057,14 @@
   justify-content: center;
 }
 .detail-container-delete1 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .detail-container-button13 {
   height: 40px;
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   flex-shrink: 0;
@@ -1073,8 +1072,8 @@
   justify-content: center;
 }
 .detail-container-info1 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .detail-container-tambah-jenislayanan {
@@ -1321,10 +1320,10 @@
   position: relative;
 }
 .detail-container-button19 {
-  top: 50%;
-  left: 0px;
+  top:50%;
+  left:0;
   display: flex;
-  padding: 12px 4px;
+  padding: 12px 0;
   z-index: 3;
   position: absolute;
   box-shadow: 4px 8px 40px 0px rgba(205, 209, 205, 0.20000000298023224) ;
@@ -1336,7 +1335,7 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .detail-container-arrow-right2 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }

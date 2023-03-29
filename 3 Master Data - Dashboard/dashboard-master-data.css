@@ -760,7 +760,7 @@
 }
 .dashboard-master-data-detail-master-data {
   display: flex;
-  padding: 32px;
+  padding: 32px 20px;
   position: relative;
   flex-grow: 1;
   align-self: stretch;
@@ -831,9 +831,9 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .dashboard-master-data-daftar-counter {
-  gap: 32px;
+  gap: 16px;
   display: flex;
-  padding: 16px 32px;
+  padding: 16px 0 16px 16px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -904,7 +904,7 @@
 }
 .dashboard-master-data-button07 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
@@ -918,7 +918,7 @@
 }
 .dashboard-master-data-button08 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
@@ -932,7 +932,7 @@
 }
 .dashboard-master-data-button09 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
