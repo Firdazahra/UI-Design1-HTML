@@ -33,7 +33,6 @@ body {
   background-color: rgba(255, 255, 255, 1);
 }
 .input-master-data11-logocontainer {
-  width: 240px;
   display: flex;
   padding: 0 24px;
   position: relative;
@@ -45,7 +44,7 @@ body {
 }
 .input-master-data11-logo {
   display: flex;
-  padding: 24px 0;
+  padding: 12px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -71,7 +70,7 @@ body {
   margin-bottom: 0;
 }
 .input-master-data11-menu-bar {
-  width: 240px;
+  width: 180px;
   display: flex;
   z-index: 1;
   position: relative;
@@ -281,7 +280,7 @@ body {
 }
 .input-master-data11-user {
   display: flex;
-  padding: 16px 0;
+  padding: 12px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -351,9 +350,9 @@ body {
 }
 .input-master-data11-button {
   top: 50%;
-  right: -24px;
+  right: -16px;
   display: flex;
-  padding: 12px;
+  padding: 4px;
   z-index: 3;
   position: absolute;
   box-shadow: 4px 8px 40px 0px rgba(205, 209, 205, 0.20000000298023224);
@@ -367,14 +366,14 @@ body {
 }
 
 .input-master-data11-arrow-left {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data11-body {
   width: 100%;
   height: 100%;
-  overflow: scroll;
+  overflow: auto;
   display: flex;
   padding: 0px 120px;
   position: relative;
@@ -413,7 +412,7 @@ body {
 .input-master-data11-title-form {
   width: auto;
   display: flex;
-  padding: 16px 32px;
+  padding: 16px 24px;
   position: relative;
   flex-grow: 1;
   align-items: flex-start;
@@ -431,7 +430,7 @@ body {
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
-  margin-bottom: 12px;
+  margin-bottom: 4px;
 }
 .input-master-data11-text22 {
   color: var(--dl-color-neutral-100);
@@ -453,16 +452,16 @@ body {
 }
 .input-master-data11-button01 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
-  margin-right: 8px;
+  margin-right: 4px;
   justify-content: center;
 }
 .input-master-data11-chevron-down-filled {
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
   position: relative;
 }
 .input-master-data11-text24 {
@@ -476,7 +475,7 @@ body {
   margin-bottom: 0;
 }
 .input-master-data11-container-close-button {
-  width: 128px;
+  width: 100px;
   display: flex;
   position: relative;
   align-self: stretch;
@@ -487,20 +486,20 @@ body {
 }
 .input-master-data11-button02 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
   justify-content: center;
 }
 .input-master-data11-close {
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
   position: relative;
 }
 .input-master-data11-tambah-counterlayanan {
   display: flex;
-  padding: 24px 0 24px 32px;
+  padding: 16px 24px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -514,12 +513,12 @@ body {
   align-self: auto;
   text-align: left;
   line-height: 150%;
-  margin-right: 32px;
+  margin-right: 12px;
   margin-bottom: 0;
 }
 .input-master-data11-button03 {
   display: flex;
-  padding: 8px 16px;
+  padding: 4px 8px;
   position: relative;
   align-items: center;
   border-color: rgba(28, 124, 84, 1);
@@ -540,7 +539,7 @@ body {
 .input-master-data11-containercounterlayanan {
   width: 100%;
   display: flex;
-  padding: 0 32px;
+  padding: 0 24px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -574,7 +573,7 @@ body {
 .input-master-data11-form-title {
   width: auto;
   display: flex;
-  padding: 16px 32px;
+  padding: 8px 0;
   position: relative;
   flex-grow: 1;
   transition: 0.3s;
@@ -594,7 +593,7 @@ body {
   text-align: left;
   line-height: 150%;
   margin-right: 0;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .input-master-data11-text31 {
   color: var(--dl-color-neutral-100);
@@ -606,7 +605,7 @@ body {
   margin-bottom: 0;
 }
 .input-master-data11-containerbutton {
-  width: 104px;
+  width: 72px;
   display: flex;
   position: relative;
   align-self: stretch;
@@ -619,20 +618,20 @@ body {
   width: auto;
   height: auto;
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
   justify-content: center;
 }
 .input-master-data11-close1 {
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
   position: relative;
 }
 .input-master-data11-tambah-jenis-layanan {
   display: flex;
-  padding: 16px 32px;
+  padding: 16px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -646,12 +645,12 @@ body {
   align-self: auto;
   text-align: left;
   line-height: 150%;
-  margin-right: 32px;
+  margin-right: 12px;
   margin-bottom: 0;
 }
 .input-master-data11-button05 {
   display: flex;
-  padding: 8px 16px;
+  padding: 4px 8px;
   position: relative;
   align-items: center;
   border-color: rgba(28, 124, 84, 1);
@@ -673,26 +672,28 @@ body {
   width: 100%;
   height: auto;
   display: flex;
-  padding: 16px 0;
+  padding: 4px 0;
   position: relative;
   align-self: stretch;
   align-items: flex-start;
   border-color: transparent;
   margin-bottom: 0px;
-  flex-direction: column;
+  flex-direction: row;
 }
 .input-master-data11-row-jenislayanan {
   width: 100%;
   height: auto;
   display: flex;
-  padding: 0 32px;
+  flex-direction: column;
   position: relative;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
   border-color: transparent;
+  gap: 16px;
 }
 .input-master-data11-group-jenislayanan {
+  max-width: calc(25% - 16px);
   display: flex;
   position: relative;
   flex-grow: 1;
@@ -701,7 +702,6 @@ body {
   border-color: rgba(230, 230, 230, 1);
   border-style: solid;
   border-width: 1px;
-  margin-right: 16px;
 }
 .input-master-data11-containerbutton1 {
   width: auto;
@@ -717,19 +717,18 @@ body {
 }
 .input-master-data11-button06 {
   display: flex;
-  padding: 8px 16px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
   justify-content: center;
 }
 .input-master-data11-close2 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data11-jenislayanan {
-  width: 220px;
   display: flex;
   position: relative;
   flex-grow: 1;
@@ -808,7 +807,7 @@ body {
 }
 .input-master-data11-button07 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -829,15 +828,18 @@ body {
   margin-bottom: 0;
 }
 .input-master-data11-containerloket {
+  width: 100%;
   display: flex;
   position: relative;
   align-self: stretch;
   align-items: flex-start;
   border-color: transparent;
-  flex-direction: column;
+  flex-direction: row;
 }
 .input-master-data11-loket {
+  width: 100%;
   display: flex;
+  flex-direction: row;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -848,7 +850,7 @@ body {
 }
 .input-master-data11-button08 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -857,12 +859,11 @@ body {
   justify-content: center;
 }
 .input-master-data11-minus {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data11-namaaudio {
-  width: 180px;
   display: flex;
   position: relative;
   flex-grow: 1;
@@ -874,8 +875,9 @@ body {
   flex-direction: column;
 }
 .input-master-data11-nama {
+  width: 100%;
   display: flex;
-  padding: 8px 12px;
+  padding: 4px 8px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -896,8 +898,9 @@ body {
   margin-bottom: 0;
 }
 .input-master-data11-audio1 {
+  width: 100%;
   display: flex;
-  padding: 8px 12px;
+  padding: 4px;
   position: relative;
   flex-grow: 1;
   align-self: stretch;
@@ -917,7 +920,6 @@ body {
   align-self: auto;
   text-align: left;
   line-height: 150%;
-  margin-right: 8px;
   margin-bottom: 0;
 }
 .input-master-data11-dropdown {
@@ -930,11 +932,12 @@ body {
   padding-bottom: 0px;
 }
 .input-master-data11-chevron-down-filled1 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data11-group-jenislayanan1 {
+  max-width: calc(25% - 16px);
   display: flex;
   opacity: 0;
   position: relative;
@@ -966,7 +969,6 @@ body {
   justify-content: center;
 }
 .input-master-data11-jenislayanan1 {
-  width: 220px;
   display: flex;
   position: relative;
   flex-grow: 1;
@@ -1147,6 +1149,7 @@ body {
   margin-bottom: 0;
 }
 .input-master-data11-group-jenislayanan2 {
+  max-width: calc(25% - 16px);
   display: flex;
   opacity: 0;
   position: relative;
@@ -1359,6 +1362,7 @@ body {
   margin-bottom: 0;
 }
 .input-master-data11-group-jenislayanan3 {
+  max-width: calc(25% - 16px);
   display: flex;
   opacity: 0;
   position: relative;
@@ -1593,7 +1597,7 @@ body {
 .input-master-data11-button18 {
   width: 50%;
   display: flex;
-  padding: 24px 32px;
+  padding: 8px 16px;
   position: relative;
   flex-grow: 1;
   align-items: center;
@@ -1616,7 +1620,7 @@ body {
 .input-master-data11-button19 {
   width: 50%;
   display: flex;
-  padding: 24px 32px;
+  padding: 8px 16px;
   position: relative;
   flex-grow: 1;
   align-items: center;
