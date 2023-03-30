@@ -112,145 +112,145 @@
   transform: none !important;
 }
 .TextXLBold {
-  font-size: 24px;
+  font-size: 20px;
   font-family: Inter;
   font-weight: 700;
 }
 .TextXXLSemiBold {
-  font-size: 30px;
+  font-size: 24px;
   font-family: Inter;
   font-weight: 600;
 }
 .TextSSemiBold {
-  font-size: 16px;
+  font-size: 14px;
   font-family: Inter;
   font-weight: 600;
 }
 .TextSRegular {
-  font-size: 16px;
+  font-size: 14px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
 .TextLBold {
-  font-size: 20px;
+  font-size: 18px;
   font-family: Inter;
   font-weight: 700;
 }
 .TextXLMedium {
-  font-size: 24px;
+  font-size: 20px;
   font-family: Inter;
   font-weight: 500;
 }
 .TextXXSRegular {
-  font-size: 12px;
+  font-size: 10px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
 .TextXXSMedium {
-  font-size: 12px;
+  font-size: 10px;
   font-family: Inter;
   font-weight: 500;
 }
 .HeadingSLight {
-  font-size: 36px;
-  font-family: Inter;
-  font-weight: 300;
-}
-.HeadingMMedium {
-  font-size: 48px;
-  font-family: Inter;
-  font-weight: 500;
-}
-.TextXSBold {
-  font-size: 14px;
-  font-family: Inter;
-  font-weight: 700;
-}
-.TextXXLLight {
   font-size: 30px;
   font-family: Inter;
   font-weight: 300;
 }
+.HeadingMMedium {
+  font-size: 34px;
+  font-family: Inter;
+  font-weight: 500;
+}
+.TextXSBold {
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.TextXXLLight {
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 300;
+}
 .TextSLight {
-  font-size: 16px;
+  font-size: 14px;
   font-family: Inter;
   font-weight: 300;
 }
 .TextSMedium {
-  font-size: 16px;
+  font-size: 14px;
   font-family: Inter;
   font-weight: 500;
 }
 .HeadingMRegular {
-  font-size: 48px;
+  font-size: 34px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
 .TextXXLBold {
-  font-size: 30px;
+  font-size: 24px;
   font-family: Inter;
   font-weight: 700;
 }
 .TextLMedium {
-  font-size: 20px;
+  font-size: 18px;
   font-family: Inter;
   font-weight: 500;
 }
 .TextMBold {
-  font-size: 18px;
+  font-size: 16px;
   font-family: Inter;
   font-weight: 700;
 }
 .TextMSemiBold {
-  font-size: 18px;
+  font-size: 16px;
   font-family: Inter;
   font-weight: 600;
 }
 .TextXXLMedium {
-  font-size: 30px;
+  font-size: 24px;
   font-family: Inter;
   font-weight: 500;
 }
 .HeadingSBold {
-  font-size: 36px;
+  font-size: 30px;
   font-family: Inter;
   font-weight: 700;
 }
 .TextXLLight {
-  font-size: 24px;
+  font-size: 20px;
   font-family: Inter;
   font-weight: 300;
 }
 .TextLLight {
-  font-size: 20px;
+  font-size: 18px;
   font-family: Inter;
   font-weight: 300;
 }
 .TextLSemiBold {
-  font-size: 20px;
+  font-size: 18px;
   font-family: Inter;
   font-weight: 600;
 }
 .TextXXLRegular {
-  font-size: 30px;
+  font-size: 24px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
 .HeadingMSemiBold {
-  font-size: 48px;
+  font-size: 34px;
   font-family: Inter;
   font-weight: 600;
 }
 .TextXLRegular {
-  font-size: 24px;
+  font-size: 20px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
@@ -265,100 +265,100 @@
   text-decoration: none;
 }
 .TextXXSSemiBold {
-  font-size: 12px;
+  font-size: 10px;
   font-family: Inter;
   font-weight: 600;
 }
 .HeadingMLight {
-  font-size: 48px;
+  font-size: 34px;
   font-family: Inter;
   font-weight: 300;
 }
 .TextXSLight {
-  font-size: 14px;
+  font-size: 12px;
   font-family: Inter;
   font-weight: 300;
 }
 .HeadingSMedium {
-  font-size: 36px;
+  font-size: 30px;
   font-family: Inter;
   font-weight: 500;
 }
 .TextXXSBold {
-  font-size: 12px;
+  font-size: 10px;
   font-family: Inter;
   font-weight: 700;
 }
 .TextSBold {
-  font-size: 16px;
+  font-size: 14px;
   font-family: Inter;
   font-weight: 700;
 }
 .TextMRegular {
-  font-size: 18px;
+  font-size: 16px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
 .HeadingSRegular {
-  font-size: 36px;
+  font-size: 30px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
 .TextXSRegular {
-  font-size: 14px;
+  font-size: 12px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
 .HeadingSSemiBold {
-  font-size: 36px;
+  font-size: 30px;
   font-family: Inter;
   font-weight: 600;
 }
 .TextXXSLight {
-  font-size: 12px;
+  font-size: 10px;
   font-family: Inter;
   font-weight: 300;
 }
 .TextLRegular {
-  font-size: 20px;
+  font-size: 18px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
 }
 .HeadingMBold {
-  font-size: 48px;
+  font-size: 34px;
   font-family: Inter;
   font-weight: 700;
 }
 .TextXSSemiBold {
-  font-size: 14px;
+  font-size: 12px;
   font-family: Inter;
   font-weight: 600;
 }
 .TextXLSemiBold {
-  font-size: 24px;
+  font-size: 20px;
   font-family: Inter;
   font-weight: 600;
 }
 .TextMLight {
-  font-size: 18px;
+  font-size: 16px;
   font-family: Inter;
   font-weight: 300;
 }
 .TextMMedium {
-  font-size: 18px;
+  font-size: 16px;
   font-family: Inter;
   font-weight: 500;
 }
 .TextXSMedium {
-  font-size: 14px;
+  font-size: 12px;
   font-family: Inter;
   font-weight: 500;
 }

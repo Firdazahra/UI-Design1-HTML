@@ -45,7 +45,7 @@
 }
 .akun-pengguna-logo {
   display: flex;
-  padding: 24px 0;
+  padding: 12px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -71,7 +71,7 @@
   margin-bottom: 0;
 }
 .akun-pengguna-menu-bar {
-  width: 240px;
+  width: 180px;
   display: flex;
   z-index: 1;
   position: relative;
@@ -281,7 +281,7 @@
 }
 .akun-pengguna-user {
   display: flex;
-  padding: 16px 0;
+  padding: 12px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -351,9 +351,9 @@
 }
 .akun-pengguna-button {
   top: 50%;
-  right: -24px;
+  right: -16px;
   display: flex;
-  padding: 12px;
+  padding: 4px;
   z-index: 3;
   position: absolute;
   box-shadow: 4px 8px 40px 0px rgba(205, 209, 205, 0.20000000298023224) ;
@@ -365,8 +365,8 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .akun-pengguna-arrow-left {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .akun-pengguna-dashboard-left-side {
@@ -386,6 +386,7 @@
 .akun-pengguna-header {
   width: 100%;
   display: flex;
+  flex-direction: row;
   padding: 24px 20px 8px 20px;
   position: relative;
   align-self: stretch;
@@ -423,7 +424,7 @@
 .akun-pengguna-pagination-dataperpage {
   width: 100%;
   display: flex;
-  padding: 16px 20px 16px 16px;
+  padding: 16px 20px 16px 8px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -706,7 +707,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.akun-pengguna-user-type {
+.akun-pengguna-user-type0 {
   width: 100%;
   display: block;
   overflow: hidden;
@@ -816,7 +817,7 @@
 .akun-pengguna-detail-akun {
   height: 100%;
   display: flex;
-  padding: 0 32px;
+  padding: 0 24px;
   overflow: auto;
   position: relative;
   flex-grow: 1;
@@ -829,7 +830,7 @@
 .akun-pengguna-identitas-operator {
   width: 100%;
   display: flex;
-  padding: 32px 0 0 0;
+  padding: 24px 0 0 0;
   position: relative;
   align-self: stretch;
   align-items: flex-start;
@@ -851,13 +852,6 @@
   align-items: center;
   border-color: transparent;
   margin-right: 16px;
-}
-.akun-pengguna-nama {
-  display: block;
-  overflow: hidden;
-  align-items: center;
-  white-space: nowrap;
-  text-overflow: ellipsis;
 }
 .akun-pengguna-text45 {
   color: var(--dl-color-neutral-100);
@@ -914,19 +908,12 @@
   margin-bottom: 0;
 }
 .akun-pengguna-usernam-email {
-  gap: 64px;
+  gap: 32px;
   width: 100%;
   display: flex;
   position: relative;
   align-items: center;
   border-color: transparent;
-}
-.akun-pengguna-username {
-  display: block;
-  overflow: hidden;
-  align-items: center;
-  white-space: nowrap;
-  text-overflow: ellipsis;
 }
 .akun-pengguna-text51 {
   color: var(--dl-color-neutral-80);
@@ -934,7 +921,6 @@
   align-self: auto;
   text-align: left;
   line-height: 150%;
-  margin-right: 4px;
   margin-bottom: 0;
 }
 .akun-pengguna-text53 {
@@ -946,20 +932,12 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.akun-pengguna-email {
-  display: block;
-  overflow: hidden;
-  align-items: center;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-}
 .akun-pengguna-text55 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
   text-align: left;
   line-height: 150%;
-  margin-right: 4px;
   margin-bottom: 0;
 }
 .akun-pengguna-text57 {
@@ -972,7 +950,7 @@
   margin-bottom: 0;
 }
 .akun-pengguna-user-type-akses-counter {
-  gap: 32px;
+  gap: 24px;
   width: 100%;
   display: flex;
   padding: 32px 0;
@@ -998,7 +976,7 @@
 .akun-pengguna-header-user-type {
   width: 100%;
   display: flex;
-  padding: 16px 32px;
+  padding: 12px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -1017,7 +995,7 @@
 }
 .akun-pengguna-button08 {
   display: flex;
-  padding: 8px 16px;
+  padding: 4px 8px;
   position: relative;
   align-items: center;
   border-color: rgba(28, 124, 84, 1);
@@ -1046,7 +1024,7 @@
 .akun-pengguna-listusertype {
   width: 100%;
   display: flex;
-  padding: 12px 32px;
+  padding: 8px 8px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -1074,19 +1052,18 @@
 }
 .akun-pengguna-button09 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
   justify-content: center;
 }
 .akun-pengguna-delete {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .akun-pengguna-akses-counter {
-  wisth: 1;
   display: flex;
   padding: 1px;
   position: relative;
@@ -1103,7 +1080,7 @@
 .akun-pengguna-header-akses-counter {
   width: 100%;
   display: flex;
-  padding: 16px 32px;
+  padding: 12px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -1122,7 +1099,7 @@
 }
 .akun-pengguna-button10 {
   display: flex;
-  padding: 8px 16px;
+  padding: 4px 8px;
   position: relative;
   align-items: center;
   border-color: rgba(28, 124, 84, 1);
@@ -1152,7 +1129,7 @@
   gap: 8px;
   width: 100%;
   display: flex;
-  padding: 12px 32px;
+  padding: 12px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -1162,9 +1139,8 @@
   border-width: 1px 0 0 0;
 }
 .akun-pengguna-counter-unitlayanan {
-  width: max-content;
+  width: calc(100% - 36px);
   display: flex;
-  padding: 8px 0;
   position: relative;
   flex-grow: 1;
   align-items: flex-start;
@@ -1208,15 +1184,15 @@
 }
 .akun-pengguna-button11 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
   justify-content: center;
 }
 .akun-pengguna-delete1 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .akun-pengguna-tanggaldibuatdandiupdate {
