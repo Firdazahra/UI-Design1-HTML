@@ -52,7 +52,7 @@
   flex-shrink: 0;
   border-color: rgba(242, 242, 242, 1);
   border-style: solid;
-  border-width: Symbol(figma.mixed)px;
+  border-width: 0 0 1px 0;
 }
 .detail-container-logo1 {
   width: 21px;
@@ -289,7 +289,7 @@
   flex-shrink: 0;
   border-color: rgba(242, 242, 242, 1);
   border-style: solid;
-  border-width: Symbol(figma.mixed)px;
+  border-width: 0 0 1px 0;
 }
 .detail-container-text016 {
   color: var(--dl-color-neutral-70);
