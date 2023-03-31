@@ -373,7 +373,7 @@
   height: 100%;
   display: flex;
   position: relative;
-  max-width: 25%;
+  width: 25%;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;

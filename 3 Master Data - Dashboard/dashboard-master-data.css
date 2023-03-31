@@ -2,7 +2,6 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-  min-height: 100vh;
   align-items: center;
   flex-direction: column;
 }
@@ -33,7 +32,7 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .dashboard-master-data-logocontainer {
-  width: 240px;
+  width: 180px;
   display: flex;
   padding: 0 24px;
   position: relative;
@@ -45,7 +44,7 @@
 }
 .dashboard-master-data-logo {
   display: flex;
-  padding: 24px 0;
+  padding: 12px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -71,7 +70,7 @@
   margin-bottom: 0;
 }
 .dashboard-master-data-menu-bar {
-  width: 240px;
+  width: 180px;
   display: flex;
   z-index: 1;
   position: relative;
@@ -260,7 +259,7 @@
   margin-bottom: 0;
 }
 .dashboard-master-data-account {
-  width: 240px;
+  width: 180px;
   display: flex;
   z-index: 2;
   position: relative;
@@ -282,7 +281,7 @@
 }
 .dashboard-master-data-user {
   display: flex;
-  padding: 16px 0;
+  padding: 12px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -352,9 +351,9 @@
 }
 .dashboard-master-data-button {
   top: 50%;
-  right: -24px;
+  right: -16px;
   display: flex;
-  padding: 12px;
+  padding: 4px;
   z-index: 3;
   position: absolute;
   box-shadow: 4px 8px 40px 0px rgba(205, 209, 205, 0.20000000298023224) ;
@@ -366,15 +365,15 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .dashboard-master-data-arrow-left {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .dashboard-master-data-master-data {
   height: 100%;
   display: flex;
   position: relative;
-  max-width: 25%;
+  width: 25%;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
@@ -434,7 +433,7 @@
 .dashboard-master-data-pagination-dataperpage {
   width: 100%;
   display: flex;
-  padding: 16px 20px 16px 12px;
+  padding: 16px 20px 16px 8px;
   position: relative;
   align-self: stretch;
   align-items: flex-end;
@@ -465,7 +464,6 @@
   position: relative;
 }
 .dashboard-master-data-page1 {
-  width: 25px;
   display: flex;
   padding: 4px;
   position: relative;
@@ -699,7 +697,7 @@
   position: relative;
   flex-grow: 1;
   align-self: stretch;
-  overflow-y: scroll;
+  overflow: auto;
   align-items: flex-start;
   border-color: transparent;
   flex-direction: column;
@@ -744,7 +742,7 @@
   white-space: nowrap;
   border-color: rgba(230, 230, 230, 1);
   border-style: solid;
-  border-width: Symbol(figma.mixed)px;
+  border-width: 0 0 1px 0;
   text-overflow: ellipsis;
 }
 .dashboard-master-data-text39 {
@@ -764,7 +762,7 @@
   position: relative;
   flex-grow: 1;
   align-self: stretch;
-  overflow-y: scroll;
+  overflow: auto;
   align-items: flex-start;
   border-color: transparent;
   flex-direction: column;
@@ -802,7 +800,7 @@
 }
 .dashboard-master-data-button06 {
   display: flex;
-  padding: 8px 16px;
+  padding: 4px 8px;
   position: relative;
   align-items: center;
   border-color: rgba(28, 124, 84, 1);
@@ -833,7 +831,7 @@
 .dashboard-master-data-daftar-counter {
   gap: 16px;
   display: flex;
-  padding: 16px 0 16px 16px;
+  padding: 8px 0 8px 16px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -912,8 +910,8 @@
   justify-content: center;
 }
 .dashboard-master-data-edit {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .dashboard-master-data-button08 {
@@ -926,8 +924,8 @@
   justify-content: center;
 }
 .dashboard-master-data-delete {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .dashboard-master-data-button09 {
@@ -939,15 +937,14 @@
   justify-content: center;
 }
 .dashboard-master-data-info {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .dashboard-master-data-button10 {
   width: auto;
-  height: 40px;
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   flex-shrink: 0;
@@ -955,7 +952,7 @@
   justify-content: center;
 }
 .dashboard-master-data-arrow-right1 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
