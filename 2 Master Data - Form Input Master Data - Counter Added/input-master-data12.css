@@ -27,7 +27,7 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .input-master-data12-logocontainer {
-  width: 240px;
+  width: 180px;
   display: flex;
   padding: 0 24px;
   position: relative;
@@ -39,7 +39,7 @@
 }
 .input-master-data12-logo {
   display: flex;
-  padding: 24px 0;
+  padding: 12px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -65,7 +65,7 @@
   margin-bottom: 0;
 }
 .input-master-data12-menu-bar {
-  width: 240px;
+  width: 180px;
   display: flex;
   z-index: 1;
   position: relative;
@@ -254,7 +254,7 @@
   margin-bottom: 0;
 }
 .input-master-data12-account {
-  width: 240px;
+  width: 180px;
   display: flex;
   z-index: 2;
   position: relative;
@@ -276,7 +276,7 @@
 }
 .input-master-data12-user {
   display: flex;
-  padding: 16px 0;
+  padding: 12px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -346,9 +346,9 @@
 }
 .input-master-data12-button {
   top: 50%;
-  right: -24px;
+  right: -16px;
   display: flex;
-  padding: 12px;
+  padding: 4px;
   z-index: 3;
   position: absolute;
   box-shadow: 4px 8px 40px 0px rgba(205, 209, 205, 0.20000000298023224) ;
@@ -360,16 +360,15 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .input-master-data12-arrow-left {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-body {
   width: 100%;
   height: 100%;
   display: flex;
-  padding: 0px 120px;
-  overflow: scroll;
+  overflow: auto;
   position: relative;
   flex-grow: 1;
   align-self: stretch;
@@ -378,9 +377,9 @@
   flex-direction: column;
 }
 .input-master-data12-detail-master-data {
-  width: 100%;
+  padding: 0 0 16px 0;
+  width: 80%;
   display: flex;
-  padding: 0 0 32px 0;
   position: relative;
   align-items: flex-start;
   flex-shrink: 0;
@@ -405,7 +404,7 @@
 .input-master-data12-title-form {
   width: auto;
   display: flex;
-  padding: 16px 32px;
+  padding: 16px 24px;
   position: relative;
   flex-grow: 1;
   align-items: flex-start;
@@ -423,7 +422,7 @@
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
-  margin-bottom: 12px;
+  margin-bottom: 4px;
 }
 .input-master-data12-text22 {
   color: var(--dl-color-neutral-100);
@@ -445,16 +444,16 @@
 }
 .input-master-data12-button01 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
-  margin-right: 8px;
+  margin-right: 4px;
   justify-content: center;
 }
 .input-master-data12-chevron-down-filled {
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
   position: relative;
 }
 .input-master-data12-text24 {
@@ -468,7 +467,7 @@
   margin-bottom: 0;
 }
 .input-master-data12-container-button {
-  width: 128px;
+  width: 100px;
   display: flex;
   position: relative;
   align-self: stretch;
@@ -479,21 +478,21 @@
 }
 .input-master-data12-button02 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
   justify-content: center;
 }
 .input-master-data12-close {
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
   position: relative;
 }
 .input-master-data12-tambah-counterlayanan {
   width: 100%;
   display: flex;
-  padding: 24px 32px;
+  padding: 16px 24px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -507,12 +506,12 @@
   align-self: auto;
   text-align: left;
   line-height: 150%;
-  margin-right: 32px;
+  margin-right: 12px;
   margin-bottom: 0;
 }
 .input-master-data12-button03 {
   display: flex;
-  padding: 8px 16px;
+  padding: 4px 8px;
   position: relative;
   align-items: center;
   border-color: rgba(28, 124, 84, 1);
@@ -532,7 +531,7 @@
 .input-master-data12-container-counter-layanan {
   width: 100%;
   display: flex;
-  padding: 0 32px;
+  padding: 0 24px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -552,7 +551,7 @@
 }
 .input-master-data12-title {
   display: flex;
-  padding: 16px;
+  padding: 8px 16px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -573,20 +572,20 @@
 }
 .input-master-data12-button04 {
   display: flex;
-  padding: 8px;
+  padding: 4px;
   position: relative;
   align-items: center;
   border-color: transparent;
   justify-content: center;
 }
 .input-master-data12-edit {
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
   position: relative;
 }
 .input-master-data12-label-jenislayanan {
   display: flex;
-  padding: 16px;
+  padding: 8px 16px;
   position: relative;
   align-self: stretch;
   align-items: center;
@@ -694,8 +693,8 @@
   justify-content: center;
 }
 .input-master-data12-play {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-jenis-layanan1 {
@@ -768,8 +767,8 @@
   justify-content: center;
 }
 .input-master-data12-play1 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-jenis-layanan2 {
@@ -842,8 +841,8 @@
   justify-content: center;
 }
 .input-master-data12-play2 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-jenis-layanan3 {
@@ -916,8 +915,8 @@
   justify-content: center;
 }
 .input-master-data12-play3 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-row-jenis-layanan1 {
@@ -1000,8 +999,8 @@
   justify-content: center;
 }
 .input-master-data12-play4 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-jenis-layanan5 {
@@ -1074,8 +1073,8 @@
   justify-content: center;
 }
 .input-master-data12-play5 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-jenis-layanan6 {
@@ -1148,8 +1147,8 @@
   justify-content: center;
 }
 .input-master-data12-play6 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-jenis-layanan7 {
@@ -1222,22 +1221,21 @@
   justify-content: center;
 }
 .input-master-data12-play7 {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 .input-master-data12-container-button1 {
-  width: 100%;
+  width: 80%;
   display: flex;
   position: relative;
-  align-self: stretch;
-  align-items: center;
+  align-items: flex-start;
   flex-shrink: 0;
-  border-color: transparent;
+  flex-direction: row;
 }
 .input-master-data12-button13 {
   display: flex;
-  padding: 24px 32px;
+  padding: 8px 16px;
   position: relative;
   flex-grow: 1;
   align-items: center;
@@ -1257,7 +1255,7 @@
 }
 .input-master-data12-button14 {
   display: flex;
-  padding: 24px 32px;
+  padding: 8px 16px;
   position: relative;
   flex-grow: 1;
   align-items: center;
