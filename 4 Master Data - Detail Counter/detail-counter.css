@@ -352,7 +352,7 @@
 }
 .detail-container-button {
   top: 50%;
-  right: -16;
+  right: -16px;
   display: flex;
   padding: 4px;
   z-index: 3;
@@ -434,7 +434,7 @@
 .detail-container-pagination-dataperpage {
   width: 100%;
   display: flex;
-  padding: 8px 20px 16px 20px;
+  padding: 16px 20px 16px 8px;
   position: relative;
   align-self: stretch;
   align-items: flex-end;
@@ -825,7 +825,7 @@
 }
 .detail-container-title {
   display: flex;
-  padding: 16px 16px 16px 4px;
+  padding: 4px 16px 4px 4px;
   position: relative;
   align-self: stretch;
   align-items: center;
