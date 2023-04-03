@@ -708,7 +708,8 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.tambah-user-type-user-type {
+.tambah-user-type-user-type0
+ {
   width: 100%;
   display: block;
   overflow: hidden;
@@ -936,7 +937,6 @@
   align-self: auto;
   text-align: left;
   line-height: 150%;
-  margin-right: 4px;
   margin-bottom: 0;
 }
 .tambah-user-type-text53 {
@@ -961,7 +961,6 @@
   align-self: auto;
   text-align: left;
   line-height: 150%;
-  margin-right: 4px;
   margin-bottom: 0;
 }
 .tambah-user-type-text57 {
@@ -986,7 +985,6 @@
   margin-bottom: 0px;
 }
 .tambah-user-type-user-type {
-  wisth: 1;
   display: flex;
   padding: 1px;
   position: relative;
