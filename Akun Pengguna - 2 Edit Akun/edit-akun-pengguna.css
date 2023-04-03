@@ -708,7 +708,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.edit-akun-pengguna-user-type {
+.edit-akun-pengguna-user-type0 {
   width: 100%;
   display: block;
   overflow: hidden;
@@ -1110,7 +1110,7 @@
 }
 .edit-akun-pengguna-button10 {
   display: flex;
-  padding: 8px 16px;
+  padding: 4px 8px;
   position: relative;
   align-items: center;
   border-color: rgba(28, 124, 84, 1);
