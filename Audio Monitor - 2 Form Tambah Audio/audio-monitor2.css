@@ -1,4 +1,4 @@
-.audio-monitor-container {
+.audio-monitor2-container {
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -7,7 +7,7 @@
   align-items: center;
   flex-direction: column;
 }
-.audio-monitor-page {
+.audio-monitor2-page {
   width: 100%;
   height: 100%;
   display: flex;
@@ -18,7 +18,7 @@
   border-color: transparent;
   background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-sidebar {
+.audio-monitor2-sidebar {
   height: 100%;
   display: flex;
   position: relative;
@@ -33,7 +33,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-logocontainer {
+.audio-monitor2-logocontainer {
   width: 180px;
   display: flex;
   padding: 0 24px;
@@ -44,7 +44,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.audio-monitor-logo {
+.audio-monitor2-logo {
   display: flex;
   padding: 12px 0;
   position: relative;
@@ -55,13 +55,13 @@
   border-style: solid;
   border-width: 0 0 1px 0;
 }
-.audio-monitor-logo1 {
+.audio-monitor2-logo1 {
   width: 21px;
   height: 24px;
   position: relative;
   margin-right: 12px;
 }
-.audio-monitor-text {
+.audio-monitor2-text {
   color: var(--dl-color-primary-60);
   height: auto;
   flex-grow: 1;
@@ -71,7 +71,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu-bar {
+.audio-monitor2-menu-bar {
   width: 180px;
   display: flex;
   z-index: 1;
@@ -83,7 +83,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.audio-monitor-menu {
+.audio-monitor2-menu {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -93,13 +93,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-home {
+.audio-monitor2-home {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text02 {
+.audio-monitor2-text02 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -108,7 +108,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu1 {
+.audio-monitor2-menu1 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -118,13 +118,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-database {
+.audio-monitor2-database {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text04 {
+.audio-monitor2-text04 {
   color: var(--dl-color-primary-60);
   height: auto;
   align-self: auto;
@@ -133,7 +133,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu2 {
+.audio-monitor2-menu2 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -143,13 +143,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-operator {
+.audio-monitor2-operator {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text06 {
+.audio-monitor2-text06 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -158,7 +158,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu3 {
+.audio-monitor2-menu3 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -168,13 +168,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-ticket {
+.audio-monitor2-ticket {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text08 {
+.audio-monitor2-text08 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -183,7 +183,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu4 {
+.audio-monitor2-menu4 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -193,13 +193,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-monitor {
+.audio-monitor2-monitor {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text10 {
+.audio-monitor2-text10 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -208,7 +208,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu5 {
+.audio-monitor2-menu5 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -221,13 +221,13 @@
   margin-bottom: 0px;
   background-color: var(--dl-color-primary-10);
 }
-.audio-monitor-audio {
+.audio-monitor2-audio {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text12 {
+.audio-monitor2-text12 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -236,7 +236,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu6 {
+.audio-monitor2-menu6 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -245,13 +245,13 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.audio-monitor-video {
+.audio-monitor2-video {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text14 {
+.audio-monitor2-text14 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -260,7 +260,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-account {
+.audio-monitor2-account {
   width: 180px;
   display: flex;
   z-index: 2;
@@ -271,7 +271,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.audio-monitor-usercontainer {
+.audio-monitor2-usercontainer {
   display: flex;
   padding: 0 24px;
   position: relative;
@@ -281,7 +281,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.audio-monitor-user {
+.audio-monitor2-user {
   display: flex;
   padding: 12px 0;
   position: relative;
@@ -292,7 +292,7 @@
   border-style: solid;
   border-width: 0 0 1px 0;
 }
-.audio-monitor-text16 {
+.audio-monitor2-text16 {
   color: var(--dl-color-neutral-70);
   height: auto;
   flex-grow: 1;
@@ -302,7 +302,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu7 {
+.audio-monitor2-menu7 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -312,13 +312,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-key {
+.audio-monitor2-key {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text18 {
+.audio-monitor2-text18 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -327,7 +327,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu8 {
+.audio-monitor2-menu8 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -336,13 +336,13 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.audio-monitor-logout {
+.audio-monitor2-logout {
   width: 20px;
   height: 20px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text20 {
+.audio-monitor2-text20 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -351,7 +351,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-button {
+.audio-monitor2-button {
   top: 50%;
   right: -16px;
   display: flex;
@@ -366,12 +366,12 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-arrow-left {
+.audio-monitor2-arrow-left {
   width: 20px;
   height: 20px;
   position: relative;
 }
-.audio-monitor-dashboard {
+.audio-monitor2-dashboard {
   width: 100%;
   height: 100%;
   display: flex;
@@ -381,7 +381,7 @@
   align-items: flex-start;
   border-color: transparent;
 }
-.audio-monitor-tambah-audio {
+.audio-monitor2-tambah-audio {
   width: 320px;
   height: 100%;
   display: flex;
@@ -396,7 +396,7 @@
   flex-direction: column;
   background-color: var(--dl-color-primary-10);
 }
-.audio-monitor-title-page {
+.audio-monitor2-title-page {
   display: flex;
   padding: 24px 20px 20px 20px;
   position: relative;
@@ -407,7 +407,7 @@
   margin-bottom: 0px;
   background-color: var(--dl-color-primary-10);
 }
-.audio-monitor-text22 {
+.audio-monitor2-text22 {
   color: var(--dl-color-neutral-100);
   height: auto;
   align-self: auto;
@@ -416,7 +416,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-container1 {
+.audio-monitor2-container1 {
   display: flex;
   padding: 0 20px 20px 20px;
   position: relative;
@@ -428,7 +428,7 @@
   justify-content: center;
   background-color: var(--dl-color-primary-10);
 }
-.audio-monitor-deskripsi {
+.audio-monitor2-deskripsi {
   gap: 4px;
   display: flex;
   overflow: hidden;
@@ -439,12 +439,12 @@
   border-color: transparent;
   background-color: var(--dl-color-primary-10);
 }
-.audio-monitor-mdiinformationoutline {
+.audio-monitor2-mdiinformationoutline {
   width: 64px;
   height: 64px;
   position: relative;
 }
-.audio-monitor-text24 {
+.audio-monitor2-text24 {
   color: var(--dl-color-neutral-80);
   height: auto;
   z-index: 1;
@@ -455,18 +455,20 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-UnggahAudio {
+.audio-monitor2-unggah-audio {
+  width: 100%;
+  height: auto;
   display: flex;
-  padding: 0 20px;
+  padding: 24px 20px;
   position: relative;
   flex-grow: 1;
   align-self: stretch;
   align-items: center;
-  padding-top: 0 20px;
   border-color: transparent;
   flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-audio1 {
+.audio-monitor2-audio1 {
   right: -24px;
   width: 120px;
   bottom: 24px;
@@ -474,19 +476,154 @@
   position: absolute;
   margin-bottom: 0px;
 }
-.audio-monitor-button1 {
+.audio-monitor2-form-unggah-audio {
   display: flex;
-  padding: 8px 16px;
+  padding: 0 0 24px 0;
   z-index: 1;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.audio-monitor2-title-form {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 8px;
+}
+.audio-monitor2-text26 {
+  color: var(--dl-color-neutral-100);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+}
+.audio-monitor2-judul {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 16px;
+  flex-direction: column;
+}
+.audio-monitor2-text28 {
+  color: var(--dl-color-neutral-90);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.audio-monitor2-input-field {
+  color: rgba(221, 221, 221, 1);
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 0 0 8px 0;
+  position: relative;
+  font-size: 16px;
+  align-self: stretch;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Inter;
+  font-weight: 400;
+  border-color: rgba(212, 212, 212, 1);
+  border-style: solid;
+  border-width: 0 0 1px 0;
+}
+.audio-monitor2-audio2 {
+  gap: 8px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.audio-monitor2-button1 {
+  display: flex;
+  padding: 4px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(28, 124, 84, 1);
+  border-style: dashed;
+  border-width: 2px;
+  justify-content: center;
+}
+.audio-monitor2-text30 {
+  color: var(--dl-color-primary-60);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.audio-monitor2-text32 {
+  color: var(--dl-color-neutral-80);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.audio-monitor2-container2 {
+  display: flex;
+  z-index: 2;
   position: relative;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
-  justify-content: center;
-  background-color: var(--dl-color-primary-60);
 }
-.audio-monitor-text26 {
+.audio-monitor2-button2 {
+  display: flex;
+  padding: 8px 16px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-20);
+}
+.audio-monitor2-text34 {
+  color: var(--dl-color-primary-60);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.audio-monitor2-button3 {
+  display: flex;
+  padding: 8px 16px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: var(--dl-color-neutral-70);
+}
+.audio-monitor2-text36 {
   color: var(--dl-color-neutral-10);
   height: auto;
   align-self: auto;
@@ -495,7 +632,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-data-empty {
+.audio-monitor2-data-empty {
   height: 100%;
   display: flex;
   position: relative;
@@ -507,7 +644,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-content {
+.audio-monitor2-content {
   gap: 8px;
   display: flex;
   position: relative;
@@ -517,7 +654,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.audio-monitor-text28 {
+.audio-monitor2-text38 {
   color: var(--dl-color-neutral-100);
   width: 800px;
   height: auto;
@@ -526,7 +663,7 @@
   line-height: 120.00000476837158%;
   margin-right: 0;
 }
-.audio-monitor-text30 {
+.audio-monitor2-text40 {
   color: var(--dl-color-neutral-100);
   height: auto;
   align-self: stretch;
