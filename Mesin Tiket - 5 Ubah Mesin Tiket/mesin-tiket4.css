@@ -1339,7 +1339,7 @@
 }
 .mesin-tiket4-button08 {
   display: flex;
-  padding: 16px 32px;
+  padding: 16px 24px;
   position: relative;
   flex-grow: 1;
   align-items: center;
@@ -1359,7 +1359,7 @@
 }
 .mesin-tiket4-button09 {
   display: flex;
-  padding: 16px 32px;
+  padding: 16px 24px;
   position: relative;
   flex-grow: 1;
   align-items: center;
