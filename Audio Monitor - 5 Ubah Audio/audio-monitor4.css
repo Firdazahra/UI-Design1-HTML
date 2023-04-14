@@ -1,4 +1,4 @@
-.audio-monitor-container {
+.audio-monitor4-container {
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -7,7 +7,7 @@
   align-items: center;
   flex-direction: column;
 }
-.audio-monitor-page {
+.audio-monitor4-page {
   width: 100%;
   height: 100%;
   display: flex;
@@ -18,7 +18,7 @@
   border-color: transparent;
   background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-sidebar {
+.audio-monitor4-sidebar {
   height: 100%;
   display: flex;
   position: relative;
@@ -33,7 +33,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-logocontainer {
+.audio-monitor4-logocontainer {
   width: 180px;
   display: flex;
   padding: 0 24px;
@@ -44,7 +44,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.audio-monitor-logo {
+.audio-monitor4-logo {
   display: flex;
   padding: 12px 0;
   position: relative;
@@ -55,13 +55,13 @@
   border-style: solid;
   border-width: 0 0 1px 0;
 }
-.audio-monitor-logo1 {
+.audio-monitor4-logo1 {
   width: 21px;
   height: 24px;
   position: relative;
   margin-right: 12px;
 }
-.audio-monitor-text {
+.audio-monitor4-text {
   color: var(--dl-color-primary-60);
   height: auto;
   flex-grow: 1;
@@ -71,7 +71,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu-bar {
+.audio-monitor4-menu-bar {
   width: 180px;
   display: flex;
   z-index: 1;
@@ -83,7 +83,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.audio-monitor-menu {
+.audio-monitor4-menu {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -93,13 +93,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-home {
+.audio-monitor4-home {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text02 {
+.audio-monitor4-text02 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -108,7 +108,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu1 {
+.audio-monitor4-menu1 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -118,13 +118,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-database {
+.audio-monitor4-database {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text04 {
+.audio-monitor4-text04 {
   color: var(--dl-color-primary-60);
   height: auto;
   align-self: auto;
@@ -133,7 +133,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu2 {
+.audio-monitor4-menu2 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -143,13 +143,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-operator {
+.audio-monitor4-operator {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text06 {
+.audio-monitor4-text06 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -158,7 +158,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu3 {
+.audio-monitor4-menu3 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -168,13 +168,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-ticket {
+.audio-monitor4-ticket {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text08 {
+.audio-monitor4-text08 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -183,7 +183,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu4 {
+.audio-monitor4-menu4 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -193,13 +193,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-monitor {
+.audio-monitor4-monitor {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text10 {
+.audio-monitor4-text10 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -208,7 +208,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu5 {
+.audio-monitor4-menu5 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -221,13 +221,13 @@
   margin-bottom: 0px;
   background-color: var(--dl-color-primary-10);
 }
-.audio-monitor-audio {
+.audio-monitor4-audio {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text12 {
+.audio-monitor4-text12 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -236,7 +236,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu6 {
+.audio-monitor4-menu6 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -245,13 +245,13 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.audio-monitor-video {
+.audio-monitor4-video {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text14 {
+.audio-monitor4-text14 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -260,7 +260,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-account {
+.audio-monitor4-account {
   width: 180px;
   display: flex;
   z-index: 2;
@@ -271,7 +271,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.audio-monitor-usercontainer {
+.audio-monitor4-usercontainer {
   display: flex;
   padding: 0 24px;
   position: relative;
@@ -281,7 +281,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.audio-monitor-user {
+.audio-monitor4-user {
   display: flex;
   padding: 12px 0;
   position: relative;
@@ -292,7 +292,7 @@
   border-style: solid;
   border-width: 0 0 1px 0;
 }
-.audio-monitor-text16 {
+.audio-monitor4-text16 {
   color: var(--dl-color-neutral-70);
   height: auto;
   flex-grow: 1;
@@ -302,7 +302,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu7 {
+.audio-monitor4-menu7 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -312,13 +312,13 @@
   border-color: transparent;
   margin-bottom: 0px;
 }
-.audio-monitor-key {
+.audio-monitor4-key {
   width: 24px;
   height: 24px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text18 {
+.audio-monitor4-text18 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -327,7 +327,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-menu8 {
+.audio-monitor4-menu8 {
   display: flex;
   padding: 12px 24px;
   position: relative;
@@ -336,13 +336,13 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.audio-monitor-logout {
+.audio-monitor4-logout {
   width: 20px;
   height: 20px;
   position: relative;
   margin-right: 8px;
 }
-.audio-monitor-text20 {
+.audio-monitor4-text20 {
   color: var(--dl-color-neutral-80);
   height: auto;
   align-self: auto;
@@ -351,7 +351,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-button {
+.audio-monitor4-button {
   top: 50%;
   right: -16px;
   display: flex;
@@ -366,14 +366,14 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-arrow-left {
+.audio-monitor4-arrow-left {
   width: 20px;
   height: 20px;
   position: relative;
 }
-.audio-monitor-body {
+.audio-monitor4-body {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: flex;
   padding: 24px;
   position: relative;
@@ -384,7 +384,7 @@
   flex-direction: column;
   background-color: rgba(255, 255, 255, 1);
 }
-.audio-monitor-header {
+.audio-monitor4-header {
   display: flex;
   position: relative;
   align-self: stretch;
@@ -393,14 +393,14 @@
   border-color: transparent;
   margin-bottom: 16px;
 }
-.audio-monitor-title-page {
+.audio-monitor4-title-page {
   display: flex;
   position: relative;
   align-items: center;
   border-color: transparent;
   margin-right: 32px;
 }
-.audio-monitor-text22 {
+.audio-monitor4-text22 {
   color: var(--dl-color-neutral-100);
   height: auto;
   align-self: auto;
@@ -409,14 +409,14 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-tab {
+.audio-monitor4-tab {
   display: flex;
   position: relative;
   flex-grow: 1;
   align-items: center;
   border-color: transparent;
 }
-.audio-monitor-tab1 {
+.audio-monitor4-tab1 {
   display: flex;
   padding: 8px 16px 12px 16px;
   position: relative;
@@ -427,7 +427,7 @@
   margin-right: 0px;
   justify-content: center;
 }
-.audio-monitor-text24 {
+.audio-monitor4-text24 {
   color: var(--dl-color-primary-60);
   height: auto;
   align-self: auto;
@@ -436,7 +436,7 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-tab2 {
+.audio-monitor4-tab2 {
   display: flex;
   padding: 8px 16px 12px 16px;
   position: relative;
@@ -444,7 +444,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.audio-monitor-text26 {
+.audio-monitor4-text26 {
   color: var(--dl-color-primary-30);
   height: auto;
   align-self: auto;
@@ -454,10 +454,10 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-text26:hover {
+.audio-monitor4-text26:hover {
   color: var(--dl-color-primary-60);
 }
-.audio-monitor-dashboard {
+.audio-monitor4-dashboard {
   display: flex;
   position: relative;
   flex-grow: 1;
@@ -465,7 +465,7 @@
   align-items: flex-start;
   border-color: transparent;
 }
-.audio-monitor-unggah-audio {
+.audio-monitor4-unggah-audio {
   width: 320px;
   display: flex;
   padding: 32px 16px;
@@ -478,7 +478,7 @@
   flex-direction: column;
   background-color: var(--dl-color-primary-10);
 }
-.audio-monitor-mdiinformationoutline {
+.audio-monitor4-mdiinformationoutline {
   top: -20px;
   right: -20px;
   width: 160px;
@@ -486,7 +486,7 @@
   position: absolute;
   margin-bottom: 16px;
 }
-.audio-monitor-text28 {
+.audio-monitor4-text28 {
   color: var(--dl-color-neutral-80);
   height: auto;
   z-index: 1;
@@ -496,7 +496,7 @@
   margin-right: 0;
   margin-bottom: 16px;
 }
-.audio-monitor-button1 {
+.audio-monitor4-button1 {
   display: flex;
   padding: 8px 16px;
   z-index: 2;
@@ -508,7 +508,7 @@
   justify-content: center;
   background-color: var(--dl-color-primary-60);
 }
-.audio-monitor-text30 {
+.audio-monitor4-text30 {
   color: var(--dl-color-neutral-10);
   height: auto;
   align-self: auto;
@@ -517,29 +517,179 @@
   margin-right: 0;
   margin-bottom: 0;
 }
-.audio-monitor-title-page-text {
+.audio-monitor4-ubah-audio {
+  width: 100%;
+  height: fit-content;
   display: flex;
   position: relative;
-  flex-grow: 1;
+  align-self: stretch;
+  box-shadow: 12px 12px 12px 0px rgba(222, 222, 222, 0.20000000298023224) ;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.audio-monitor4-form-unggah-audio {
+  display: flex;
+  padding: 20px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.audio-monitor4-title-form {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 20px;
+}
+.audio-monitor4-text32 {
+  color: var(--dl-color-neutral-100);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.audio-monitor4-email {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.audio-monitor4-text34 {
+  color: var(--dl-color-neutral-80);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.audio-monitor4-input {
+  color: var(--dl-color-neutral-100);
+  display: flex;
+  padding: 0 0 4px 0;
+  position: relative;
+  font-size: 14px;
+  align-self: stretch;
+  text-align: left;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Inter;
+  font-weight: 400;
+  border-color: rgba(212, 212, 212, 1);
+  border-style: solid;
+  border-width: 0 0 1px 0;
+}
+.audio-monitor4-unggah-ulang {
+  display: flex;
+  position: relative;
   align-self: stretch;
   align-items: flex-start;
   border-color: transparent;
   flex-direction: column;
+  justify-content: center;
 }
-.audio-monitor-text32 {
-  color: var(--dl-color-neutral-100);
-  width: 800px;
+.audio-monitor4-judul-audio-unggah--ulang {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 4px;
+}
+.audio-monitor4-text36 {
+  color: var(--dl-color-neutral-90);
   height: auto;
   align-self: auto;
   text-align: left;
-  line-height: 120.00000476837158%;
-  margin-right: 0;
-  margin-bottom: 8px;
+  line-height: 150%;
+  margin-right: 8px;
+  margin-bottom: 0;
 }
-.audio-monitor-text34 {
+.audio-monitor4-button2 {
+  display: flex;
+  padding: 4px 8px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.audio-monitor4-text38 {
+  color: var(--dl-color-primary-60);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.audio-monitor4-text40 {
   color: var(--dl-color-neutral-80);
   height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.audio-monitor4-container1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
   align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.audio-monitor4-button3 {
+  display: flex;
+  padding: 8px 16px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-20);
+}
+.audio-monitor4-text42 {
+  color: var(--dl-color-primary-60);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.audio-monitor4-button4 {
+  display: flex;
+  padding: 8px 16px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: var(--dl-color-primary-60);
+}
+.audio-monitor4-text44 {
+  color: var(--dl-color-neutral-10);
+  height: auto;
+  align-self: auto;
   text-align: left;
   line-height: 150%;
   margin-right: 0;
