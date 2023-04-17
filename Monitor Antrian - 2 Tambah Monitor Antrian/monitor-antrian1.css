@@ -975,6 +975,7 @@
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
+  margin-bottom: 32px;
 }
 .monitor-antrian1-button09 {
   display: flex;
