@@ -131,7 +131,6 @@
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .TextLBold {
   font-size: 18px;
@@ -148,7 +147,6 @@
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .TextXXSMedium {
   font-size: 10px;
@@ -175,6 +173,13 @@
   font-family: Inter;
   font-weight: 300;
 }
+.QueueNumberLarge {
+  font-size: 128px;
+  font-family: Inter;
+  font-weight: 500;
+  text-transform: none;
+  text-decoration: none;
+}
 .TextSLight {
   font-size: 14px;
   font-family: Inter;
@@ -190,7 +195,6 @@
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .TextXXLBold {
   font-size: 24px;
@@ -211,6 +215,13 @@
   font-size: 16px;
   font-family: Inter;
   font-weight: 600;
+}
+.QueueNumberSmall {
+  font-size: 40px;
+  font-family: Arial;
+  font-weight: 500;
+  text-transform: none;
+  text-decoration: none;
 }
 .TextXXLMedium {
   font-size: 24px;
@@ -242,7 +253,6 @@
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .HeadingMSemiBold {
   font-size: 34px;
@@ -254,7 +264,6 @@
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .Content {
   font-size: 16px;
@@ -299,21 +308,18 @@
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .HeadingSRegular {
   font-size: 30px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .TextXSRegular {
   font-size: 12px;
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .HeadingSSemiBold {
   font-size: 30px;
@@ -330,7 +336,6 @@
   font-style: normal;
   font-family: Inter;
   font-weight: 400px;
-  font-stretch: normal;
 }
 .HeadingMBold {
   font-size: 34px;
